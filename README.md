@@ -1,4 +1,4 @@
-# Hi, I'm Partha Pratim Choudhury 👋
+# Hi, I'm Partha Pratim Choudhur
 **Lead Data & Analytics Professional | Berlin, Germany 🇩🇪**
 
 Lead Data Analyst with **11+ years of experience** turning complex data into measurable business impact. I build end-to-end analytics solutions — from **SQL-driven ETL pipelines** and **machine learning models** to **Power BI dashboards** and **A/B testing frameworks**. An **MBA in Big Data Management** at IU University, Germany.
@@ -40,7 +40,4 @@ EDA, Regression, Classification, Clustering, Customer Segmentation, Data Storyte
 - 🎓 **B.Tech** – Electronics & Communication | West Bengal University of Technology (2004–2008)
 
 ---
-
-
-> *"Data is not just numbers — it's the story behind every business decision."*
 
