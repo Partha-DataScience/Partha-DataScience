@@ -8,7 +8,7 @@ Lead Data Analyst with **11+ years of experience** turning complex data into mea
 ## 🛠️ Tech Stack
 
 SQL(Advanced,CTEs), Python, Power BI(DAX), Machine Learning, A/B Testing
-Predictive Analytics, KPI Dashboarding, ETL, Data Modelling
+Predictive Analytics, KPI Dashboarding, End-to-End Data Pipeline, ETL, Data Modelling
 EDA, Regression, Classification, Clustering, Customer Segmentation, Data Storytelling
 
 ---
