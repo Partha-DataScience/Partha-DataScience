@@ -7,9 +7,11 @@ Lead Data Analyst with **11+ years of experience** turning complex data into mea
 
 ## 🛠️ Tech Stack
 
-SQL(Advanced,CTEs), Python, Power BI(DAX), Machine Learning, A/B Testing
-Predictive Analytics, KPI Dashboarding, End-to-End Data Pipeline, ETL, Data Modelling
-EDA, Regression, Classification, Clustering, Customer Segmentation, Data Storytelling
+SQL(Advanced, CTEs), Python, Machine Learning, EDA, Regression, Classification, Clustering, Customer Segmentation, Predictive Analytics, Data Storytelling 
+Inferential Statistics, Hypothesis Testing, A/B Testing
+Power BI(DAX), ETL, Data Modelling, KPI Dashboarding,
+Azure Data Factory(ADF), End-to-End Data Pipeline for Data Ingestion, Transforming and Publishing
+
 
 ---
 
