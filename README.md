@@ -24,7 +24,7 @@ Azure Data Factory(ADF), End-to-End Data Pipeline for Data Ingestion, Transformi
 | 🟡 | [SQL-Projects](https://github.com/Partha-DataScience/SQL-Projects) | Data Engineering | SQL, ETL |
 | 🟠 | [Python-Projects](https://github.com/Partha-DataScience/Python-Projects) | Data Analysis | Python, Pandas |
 
----
+----
 
 ## 📊 Quick Wins
 
@@ -33,7 +33,7 @@ Azure Data Factory(ADF), End-to-End Data Pipeline for Data Ingestion, Transformi
 - ⚡ Cut reporting turnaround time by **50%** with automated Power BI dashboards
 - 🗄️ Reduced ETL processing errors by **40%** through data architecture improvements
 
----
+----
 
 ## 🎓 Education
 
