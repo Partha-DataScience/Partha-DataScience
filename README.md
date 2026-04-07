@@ -10,7 +10,7 @@ Lead Data Analyst with **11+ years of experience** turning complex data into mea
 SQL(Advanced, CTEs), Python, Machine Learning, EDA, Regression, Classification, Clustering, Customer Segmentation, Predictive Analytics, Data Storytelling 
 Descriptive Statistics, Inferential Statistics, Hypothesis Testing, A/B Testing,
 Power BI(Power Query, DAX), ETL, Data Modelling, KPI Dashboarding,
-Azure Data Factory(ADF), End-to-End Data Pipeline for Data Ingestion, Transforming and Publishing
+Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for Data Ingestion, Transforming and Publishing
 
 
 ---
