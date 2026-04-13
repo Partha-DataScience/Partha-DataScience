@@ -5,7 +5,7 @@ Lead Data Analyst with **11+ years of experience** turning complex data into mea
 
 ----
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack**
 
 SQL(Advanced, CTEs), Python, Machine Learning, EDA, Regression, Classification, Clustering, Customer Segmentation, Predictive Analytics, Data Storytelling 
 Descriptive Statistics, Inferential Statistics, Hypothesis Testing, A/B Testing
