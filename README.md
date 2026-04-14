@@ -13,7 +13,7 @@ Power BI(Power Query, DAX), ETL, Data Modelling, KPI Dashboarding,
 Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for Data Ingestion, Transforming and Publishing
 
 
----
+----
 
 ## 📁 Projects
 
