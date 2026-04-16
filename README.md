@@ -22,7 +22,7 @@ Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for D
 | 🔵 | [Power-BI-Portfolio](https://github.com/Partha-DataScience/Power-BI-Portfolio) | Business Intelligence | Power BI, DAX |
 | 🟢 | [ML-Models-Portfolio](https://github.com/Partha-DataScience/ML-Models-Portfolio) | Machine Learning | Python, Scikit-learn |
 | 🟡 | [SQL-Projects](https://github.com/Partha-DataScience/SQL-Projects) | Data Engineering | SQL, ETL |
-| 🟠 | [Python-Projects](https://github.com/Partha-DataScience/Python-Projects) | Data Analysis | Python, Pandas |
+| 🟠 | [Python-Projects](https://github.com/Partha-DataScience/Python-Projects) | Data Analysis | Python, Numpy, Pandas |
 
 ----
 
