@@ -41,5 +41,5 @@ Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for D
 - 🎓 **M.Sc.** – Data Science | IIIT Bangalore & Liverpool John Moores University (2020–2022)
 - 🎓 **B.Tech** – Electronics & Communication | West Bengal University of Technology (2004–2008)
 
----
+----
 
