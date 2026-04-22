@@ -24,7 +24,7 @@ Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for D
 | 🟡 | [SQL-Projects](https://github.com/Partha-DataScience/SQL-Projects) | Data Engineering | SQL, ETL |
 | 🟠 | [Python-Projects](https://github.com/Partha-DataScience/Python-Projects) | Data Analysis | Python, Numpy, Pandas |
 
-----
+-----
 
 ## 📊 Quick Wins
 
@@ -33,7 +33,7 @@ Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for D
 - ⚡ Cut reporting turnaround time by **50%** with automated Power BI dashboards
 - 🗄️ Reduced ETL processing errors by **40%** through data architecture improvements
 
-----
+-----
 
 ## 🎓 Education
 
