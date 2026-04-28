@@ -33,7 +33,7 @@ Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for D
 - ⚡ Cut reporting turnaround time by **50%** with automated Power BI dashboards
 - 🗄️ Reduced ETL processing errors by **40%** through data architecture improvements
 
------
+----
 
 ## 🎓 Education
 
