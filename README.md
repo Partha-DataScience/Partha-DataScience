@@ -28,10 +28,10 @@ Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for D
 
 ## 📊 Quick Wins
 
-- 📈 Improved campaign ROI **8% → 21%** via funnel analysis & predictive modelling
-- 🤖 Built ML models with **85%+ accuracy**, growing lead acquisition by **28%**
-- ⚡ Cut reporting turnaround time by **50%** with automated Power BI dashboards
-- 🗄️ Reduced ETL processing errors by **40%** through data architecture improvements
+- 📈 Improved campaign ROI **8% → 21%** via funnel analysis & predictive modelling..
+- 🤖 Built ML models with **85%+ accuracy**, growing lead acquisition by **28%**..
+- ⚡ Cut reporting turnaround time by **50%** with automated Power BI dashboards..
+- 🗄️ Reduced ETL processing errors by **40%** through data architecture improvements..
 
 ----
 
