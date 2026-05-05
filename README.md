@@ -3,7 +3,7 @@
 
 Lead Data Analyst with **11+ years of experience** turning complex data into measurable business impact. I build end-to-end analytics solutions — from **SQL-driven ETL pipelines** and **machine learning models** to **Power BI dashboards** and **A/B testing frameworks**. An **MBA in Big Data Management** at IU University, Germany
 
------
+----
 
 ## 🛠️ Tech Stack**
 
@@ -24,7 +24,7 @@ Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for D
 | 🟡 | [SQL-Projects](https://github.com/Partha-DataScience/SQL-Projects) | Data Engineering | SQL, ETL |
 | 🟠 | [Python-Projects](https://github.com/Partha-DataScience/Python-Projects) | Data Analysis | Python, Numpy, Pandas |
 
------
+----
 
 ## 📊 Quick Wins
 
