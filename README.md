@@ -3,14 +3,14 @@
 
 Lead Data Analyst with **12+ years of experience** turning complex data into measurable business impact. I build end-to-end analytics solutions — from **SQL-driven ETL pipelines** and **machine learning models** to **Power BI dashboards** and **A/B testing frameworks**. An **MBA in Big Data Management** at IU University, Germany
 
-----
+-----
 
 ## 🛠️ Tech Stack**
 
 SQL(Advanced, CTEs), Python, Machine Learning, EDA, Regression, Classification, Clustering, Customer Segmentation, Predictive Analytics, Data Storytelling 
 Descriptive Statistics, Inferential Statistics, Hypothesis Testing, A/B Testing
 Power BI(Power Query, DAX), ETL, Data Modelling, KPI Dashboarding
-Azure Cloud Fundamental, Azure Data Factory(ADF), End-to-End Data Pipeline for Data Ingestion, Transforming and Publishing
+Azure Cloud Fundamentals, Azure Data Factory(ADF), End-to-End Data Pipeline for Data Ingestion, Transforming and Publishing
 
 
 -----
